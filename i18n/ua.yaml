@@ -80,22 +80,16 @@
   translation: Уведіть свій email
 
 - id: company
-  translation: compagnie
-
-- id: links
-  translation: liens
-
-- id: courses
-  translation: Cours
+  translation: Фонд
 
 - id: new_notice
   translation: nouvelle notice
 
 - id: call
-  translation: appeler
+  translation: тел.
 
 - id: email
-  translation: courriel
+  translation: email
 
 - id: all
   translation: Tous

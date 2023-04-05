@@ -6,18 +6,16 @@ bg_image: "images/backgrounds/hero.png"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "By highlighting the challenges of volunteering, we are clear that our mission is to create a community of volunteers and volunteer organizations built on values."
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT US
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+The best result is a well-formed culture of volunteering, which will allow to unite efforts for the victory and reconstruction of Ukraine.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Головний штаб фонду працює у Києві за адресою вул. М.Шепелева 6.
+Фонд «ПРОЦВІТАЮЧА УКРАЇНА» збирає кошти задля гуманітарних ініціатив на постійній основі та операційних витрат.
+Усі кошти, які надходять на рахунки благодійної організації, потрапляють у загальний волонтерський фонд коштів «ПРОЦВІТАЮЧА УКРАЇНА» разом з грошима з інших рахунків, LiqPay та PayPal.
+На усі ці кошти фонд закриває потреби гуманітарної допомоги українцям які цього потребують.
+
+Дякуємо, що долучаєтеся. Слава Україні

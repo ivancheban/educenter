@@ -5,19 +5,19 @@
   translation: Formulaire de contact
 
 - id: send
-  translation: envoyer
+  translation: відправити
 
 - id: contact_info
   translation: Info de contact
 
 - id: subscribe_newsletter
-  translation: Abonnement à l’infolettre
+  translation: Підписка на розсилку
 
 - id: subscribe
-  translation: S’abonner
+  translation: Підписатися
 
 - id: contact_us
-  translation: Nous joindre
+  translation: Написати нам
 
 - id: latest_article
   translation: Dernier article
@@ -74,10 +74,10 @@
   translation: Plus d’événements
 
 - id: join
-  translation: S’abonner
+  translation: Підписатися
 
 - id: enter_email
-  translation: Entrez votre courriel…
+  translation: Уведіть свій email
 
 - id: company
   translation: compagnie

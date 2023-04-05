@@ -91,7 +91,7 @@ link = "https://instagram.com/prosperityua?igshid=YmMyMTA2M2Y="
 
 [[params.social]]
 title = "tiktok"
-icon = "fa-brands fa-tiktok" # themify icon : https://themify.me/themify-icons
+icon = "ti-themify-favicon" # themify icon : https://themify.me/themify-icons
 link = "https://vm.tiktok.com/ZMNRp2efL/"
 
 [[params.social]]

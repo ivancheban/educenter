@@ -82,15 +82,6 @@
 - id: company
   translation: company
 
-- id: links
-  translation: links
-
-- id: courses
-  translation: Courses
-
-- id: new_notice
-  translation: new notice
-
 - id: call
   translation: call
 

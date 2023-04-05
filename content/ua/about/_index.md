@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/hero.png"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Ми прагнемо до побудови процвітаючої України за рахунок реалізації професійного, наукового, світоглядного потенціалу української нації. Усі наші дії ґрунтуються на прозорих партнерських відносинах, які захищені від непорозумінь за допомогою впровадження сучасних ІТ-технологій."
 ---
 
 ## Про наш Фонд

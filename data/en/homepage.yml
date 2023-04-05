@@ -4,36 +4,58 @@ slider:
   bg_image : "images/banner/hero.png"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Patriotism"
+      content : "We act in the interests of citizens and the state, first of all taking care of our compatriots as the greatest value."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Transparency"
+      content : "We are open, consistent and logical in decision-making"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Integrity"
+      content : "Responsibility and compliance with business ethics standards are inviolable guidelines of our activities."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Contact us"
+        link : "contact/"
+
+        # slider item loop
+    - title : "Professionalism"
+      content : "We are effective, strive for excellence, create a favorable environment for innovation, development and dissemination of new ideas."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Contact us"
+        link : "contact/"
+
+         # slider item loop
+    - title : "Partnership"
+      content : "We maintain dialogue and partnerships, respect the diversity of ideas and positions."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Contact us"
         link : "contact/"
 
 
@@ -43,105 +65,102 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Transparency of our activities"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Responsibility and compliance with business ethics standards are inviolable guidelines of our activities."
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Introduction of innovations"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Modern IT solutions that will minimize the human factor in their implementation in order to build a prosperous country."
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "Challenge of trust in society"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We clearly understand that our mission is to create a community of volunteers and volunteer organizations."
 
     # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    # - name : "Admission Now"
+    #   icon : "ti-write" # icon pack : https://themify.me/themify-icons
+    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Fund"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Openness, Independence And Modernity Are Signs That Form The Worldview Of Volunteering In Ukraine."
   button:
     enable : true
     label : "Learn more"
     link : "about/"
 
 
-############################# Course ################################
-course:
-  enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
+# ############################# Course ################################
+# course:
+#   enable : true
+#   title : "Our Course"
+#   # course item comes from "content/**/course" folder.
 
-########################## Call to action ############################
-cta:
-  enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
-  button:
-    enable : true
-    label : "join now"
-    link : "contact/"
+# ########################## Call to action ############################
+# cta:
+#   enable : true
+#   subtitle : "Click to Join the Advance Workshop"
+#   title : "Training In Advannce Networking"
+#   button:
+#     enable : true
+#     label : "join now"
+#     link : "contact/"
 
 
-######################## Success story #############################
-success_story:
-  enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+# ######################## Success story #############################
+# success_story:
+#   enable : true
+#   bg_image : "images/backgrounds/success-story.jpg"
+#   title : "Success Stories"
+#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
             
             
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+#   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+#   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+#   # video link
+#   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
-############################# event ################################
-event:
-  enable : true
-  title : "Upcoming Events"
-  # event item comes from "content/**/event" folder.
+# ############################# event ################################
+# event:
+#   enable : true
+#   title : "Upcoming Events"
+#   # event item comes from "content/**/event" folder.
 
   
-########################### funfacts ############################
-funfacts:
-  enable : true
-  funfact_item:
-    # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+# ########################### funfacts ############################
+# funfacts:
+#   enable : true
+#   funfact_item:
+#     # funfact item loop
+#     - name : "TEACHERS"
+#       count : "60"
 
-    # funfact item loop
-    - name : "COURSES"
-      count : "50"
+#     # funfact item loop
+#     - name : "COURSES"
+#       count : "50"
 
-    # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+#     # funfact item loop
+#     - name : "STUDENTS"
+#       count : "1000"
 
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+#     # funfact item loop
+#     - name : "SATISFIED CLIENT"
+#       count : "1400"
 
-# funfact is for about page
+# # funfact is for about page
 
 
 
-############################# blog ################################
-blog:
-  enable : true
-  title : "Latest News"
-  # blog item comes from "content/**/blog" folder.
+# ############################# blog ################################
+# blog:
+#   enable : true
+#   title : "Latest News"
+#   # blog item comes from "content/**/blog" folder.

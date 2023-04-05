@@ -1,5 +1,5 @@
 ---
-title: "À propos de nous"
+title: "Контакти"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/hero.png"
